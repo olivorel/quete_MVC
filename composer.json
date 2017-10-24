@@ -1,0 +1,15 @@
+{
+  "name": "aurelie/mvc",
+  "authors": [
+    {
+      "name": "olivorel",
+      "email": "olivorel45@hotmail.fr"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MVC\\": "src/"
+    }
+  },
+  "require": {}
+}
